@@ -156,13 +156,13 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**Post Graduation** Department of Chemical Engineering<br>
+[SPICED Academy]() - Indian Institute of Technology, Kanpur, India _(July 2018 - Dec 2023)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**Bachelor of Technology** in Chemical Engineering<br>
+[Beloit College](https://www.beloit.edu/) - Visvesvaraya National Institute of Technology, Nagpur, India _(2014 - 2018)_
 
-**Washington Semester Program** for Journalism and New Media<br>
+**Schooling** from Jawahar Navodaya Vidyalaya, Chandrapur, India<br>
 [American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
 
 **International Exchange** studying Political Science<br>
