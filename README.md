@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Mangesh Bhendale
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_PhD Candidate and Chemical based in India 🇮🇳_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:hello@workwithcarolyn.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) 
 
 ## 👩🏼‍💻 Engineering Experience
 
