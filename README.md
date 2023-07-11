@@ -1,6 +1,6 @@
 # Mangesh Bhendale
 
-_PhD Candidate and Chemical based in India 🇮🇳_ <br>
+_PhD Candidate and Chemical Engineer, based in India 🇮🇳_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) 
 
