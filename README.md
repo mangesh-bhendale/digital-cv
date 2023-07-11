@@ -150,8 +150,8 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+🇺🇸 **English** <br>
+🇮🇳 **Hindi/Marathi**: 
 <br><br>
 
 ## 👩🏼‍🎓 Education
