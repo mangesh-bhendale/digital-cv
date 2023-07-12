@@ -150,10 +150,10 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 👩🏼‍🎓 Education
 
-**Post Graduation** Department of Chemical Engineering<br>
+**Post Graduation** Department of Chemical Engineering <br>
 [IIT Kanpur](https://iitk.ac.in/) - Indian Institute of Technology, Kanpur, India _(July 2018 - Dec 2023)_ <br>
 
-**Bachelor of Technology** in Chemical Engineering<br>
+**Bachelor of Technology** in Chemical Engineering <br>
 [VNIT Nagpur](https://vnit.ac.in/) - Visvesvaraya National Institute of Technology, Nagpur, India _(2014 - 2018)_
 
-**Schooling** from Jawahar Navodaya Vidyalaya, Chandrapur, India<br>
+**Schooling** from Jawahar Navodaya Vidyalaya, Chandrapur, India <br>
