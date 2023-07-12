@@ -57,7 +57,7 @@ API-first infrastructure to create, manage and distribute content.
 ## 🗞 Publications
 <br>
 
-**Insights into the Phase Diagram of Pluronic L64 Using Coarse-Grained Molecular Dynamics Simulations** @ [J. Phys. Chem. B](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c02429)  <br>
+**Insights into the Phase Diagram of Pluronic L64 Using Coarse-Grained Molecular Dynamics Simulations** @ [_J. Phys. Chem. B,_ 2022, 126, 25, 4731–4744](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c02429)  <br>
 Investigated the phases of Pluronic L64 in water using CG molecular dynamics simulation.
   - Used derived bonded interactions using Boltzmann Inversion (BI) along with Martini non-bonded parameters.
   - Captured the experimentally observed micellar-, hexagonal-, lamellar-, and polymer-rich solution phases. 
