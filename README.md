@@ -157,13 +157,9 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## 👩🏼‍🎓 Education
 
 **Post Graduation** Department of Chemical Engineering<br>
-[SPICED Academy]() - Indian Institute of Technology, Kanpur, India _(July 2018 - Dec 2023)_ <br>
+[IIT Kanpur](https://iitk.ac.in/) - Indian Institute of Technology, Kanpur, India _(July 2018 - Dec 2023)_ <br>
 
 **Bachelor of Technology** in Chemical Engineering<br>
-[Beloit College](https://www.beloit.edu/) - Visvesvaraya National Institute of Technology, Nagpur, India _(2014 - 2018)_
+[VNIT Nagpur](https://vnit.ac.in/) - Visvesvaraya National Institute of Technology, Nagpur, India _(2014 - 2018)_
 
 **Schooling** from Jawahar Navodaya Vidyalaya, Chandrapur, India<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
