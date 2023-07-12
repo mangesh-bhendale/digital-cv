@@ -54,9 +54,7 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
+## 🗞 Publications
 <br><br>
 
 **Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
