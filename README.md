@@ -55,20 +55,13 @@ API-first infrastructure to create, manage and distribute content.
     <br><br>
     
 ## 🗞 Publications
-<br><br>
+<br>
 
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
-
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
+**Insights into the Phase Diagram of Pluronic L64 Using Coarse-Grained Molecular Dynamics Simulations** @ [J. Phys. Chem. B](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c02429)  <br>
+Investigated the phases of Pluronic L64 in water using CG molecular dynamics simulation.
+  - Used derived bonded interactions using Boltzmann Inversion (BI) along with Martini non-bonded parameters.
+  - Captured the experimentally observed micellar-, hexagonal-, lamellar-, and polymer-rich solution phases. 
+  - Used the two-phase thermodynamics (2PT) method to calculate the entropy and free energy of the observed phases.
 <br><br>
 
 **Freelance Writer** _(Mar 2020 - Present)_ <br>
