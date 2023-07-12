@@ -57,18 +57,21 @@ API-first infrastructure to create, manage and distribute content.
 ## 🗞 Publications
 <br>
 
-**Insights into the Phase Diagram of Pluronic L64 Using Coarse-Grained Molecular Dynamics Simulations** @ [_J. Phys. Chem. B,_ 2022, 126, 25, 4731–4744](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c02429)  <br>
-Investigated the phases of Pluronic L64 in water using CG molecular dynamics simulation.
+**Insights into the Phase Diagram of Pluronic L64 Using Coarse-Grained Molecular Dynamics Simulations** @ [_J. Phys. Chem. B,_ 2022, 126, 25, 4731–4744](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.2c02429) 
+Mangesh Bhendale, Arpita Srivastava, and Jayant K. Singh*<br>
+  - Investigated the phases of Pluronic L64 in water using CG molecular dynamics simulation.
   - Used derived bonded interactions using Boltzmann Inversion (BI) along with Martini non-bonded parameters.
   - Captured the experimentally observed micellar-, hexagonal-, lamellar-, and polymer-rich solution phases. 
   - Used the two-phase thermodynamics (2PT) method to calculate the entropy and free energy of the observed phases.
 <br><br>
 
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
+**Molecular Insights on Morphology, Composition, and Stability of Mixed Micelles Formed by Ionic Surfactant and Nonionic Block Copolymer in Water Using Coarse-Grained Molecular Dynamics Simulations** @ [_Langmuir,_ 2023, 39, 14, 5031–5040](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c00045)  <br>
+  - Investigated the mixed micellization of Pluronic L64/L61 and Sodiun dodecyl sulfate (SDS) in aqueous solution using CG molecular dynamics simulation.
+  - the core of the pluronic + SDS formed mixed micelles consists of PPO, the alkyl tail of SDS, and some water molecules, whereas the PEO, water, and sulfate headgroups of SDS form a shell, consistent with experimental observations.
+  - Free energy analysis using umbrella sampling suggests a stronger tendency for SDS to form pluronic-SDS mixed micelles.
 <br><br>
 
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
+**Contributing Editor** @ [_J. Chem. Phys._](accepted) <br>
 Magazine for socially conscious young people who want to create their own media.
   - Wrote over 20 articles for print and web focused on technology and activism
   - Edited and curated online-exclusive content
