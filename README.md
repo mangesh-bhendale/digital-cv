@@ -72,7 +72,7 @@ Mangesh Bhendale and Jayant K. Singh*<br>
   - Free energy analysis using umbrella sampling suggests a stronger tendency for SDS to form pluronic-SDS mixed micelles.
 <br><br>
 
-**Understanding the role of polymers on the nucleating behaviour of water in dilute supercooled solutions** @ [_The Journal of CHemical Physics,_**(Accepted)**]()  <br>
+**Understanding the role of polymers on the nucleating behaviour of water in dilute supercooled solutions** @ [_The Journal of Chemical Physics,_**(Accepted)**]()  <br>
 Aindrila Indra,# Mangesh Bhendale,# and Jayant K. Singh*<br>
   - Used Seeding simulations methodology along with classical nucleation theory (CNT) to investigated ice nucleation in presence of PVA and PVA like polymers.
   - Observed a decrease in the nucleation rate of water with an increase in the polymer concentration.
