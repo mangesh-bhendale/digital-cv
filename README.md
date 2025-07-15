@@ -1,8 +1,10 @@
 # Mangesh Bhendale
 
-_PhD Candidate and Chemical Engineer, based in India 🇮🇳_ <br>
+_Postdoctoral Research Scholar_ <br>
+_William A. Brookshire Department of Chemical and Biomolecular Engineering_ <br>
+_University of Houston, Texas, USA_ <br>
 
-[Email](mailto:mbhendle@iitk.ac.in) / [LinkedIn]() / [GitHub]() 
+[Email](mailto:mbhendale@gmail.com) / [LinkedIn]() / [GitHub]() 
 
 ## 👩🏼‍💻 Engineering Experience
 
