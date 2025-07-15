@@ -72,6 +72,14 @@ Mangesh Bhendale and Jayant K. Singh*<br>
   - Free energy analysis using umbrella sampling suggests a stronger tendency for SDS to form pluronic-SDS mixed micelles.
 <br><br>
 
+**Does freezing induce self-assembly of polymers? A molecular dynamics study** @ [_Soft Matter,_ 2023, 19, 7570-7579](https://doi.org/10.1039/D3SM00892D)  <br>
+Mangesh Bhendale, Aindrila Indra, and Jayant K. Singh*<br>
+  - This work explores the freezing-induced self-assembly (FISA) of polyvinyl alcohol (PVA) and PVA-like polymers using molecular dynamics simulations.
+  - The effect of the degree of supercooling, degree of polymerization, polymer type, and initial local concentration on the FISA was thoroughly investigated.
+  - The preeminent factor responsible for FISA is the increase in the polymer's local concentration upon freezing of the solvent and not the diffusion of the polymers away from the nucleating ice front.
+  - This study brings molecular insights into the quintessential factors governing self-assembly via freezing of the solvent, which is a novel self-assembly technique especially suitable for biomedical applications.
+<br><br>
+
 **Understanding the role of polymers on the nucleating behaviour of water in dilute supercooled solutions** @ [_The Journal of Chemical Physics,_**(Accepted)**]()  <br>
 Aindrila Indra,# Mangesh Bhendale,# and Jayant K. Singh*<br>
   - Used Seeding simulations methodology along with classical nucleation theory (CNT) to investigated ice nucleation in presence of PVA and PVA like polymers.
@@ -86,6 +94,8 @@ Snehitha Srirangam,# Mangesh Bhendale,# and Jayant K. Singh*<br>
 to 10^8 s^−1.
   - Our results demonstrate a non-monotonic pressure dependence of the optimal shear rates, which could originate from a violation of the Stokes-Einstein relation.
 <br><br>
+
+
 
 
 ## 📌 Volunteering
